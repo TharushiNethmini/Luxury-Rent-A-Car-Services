@@ -2,7 +2,7 @@
 
 <p> 'Luxury Rent A Car Services' faces challenges without an automated system, impacting customer attraction and sales. To address this, a comprehensive online Car Rental Management System is proposed, offering benefits to owners, employees, and customers. The system, with enhanced features, focuses on Booking, Vehicle, Driver, and Customer Management. It integrates admin and customer logins, streamlining operations for the car rental and driver management aspects. The Driver Management Admin facilitates efficient connections with drivers, enhancing overall efficiency. </p>
 
-Technologies : Angular, Nodejs,  
+Technologies : Angular, Nodejs, SQL 
 
 <h2>The functionalities are outlined as follows:</h3>
 
